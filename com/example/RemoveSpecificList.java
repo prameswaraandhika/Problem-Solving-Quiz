@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * Problem: Given an ArrayList of strings, remove all strings that start with the letter "A"
  */
-public class Exercise1 {
+public class RemoveSpecificList {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>(Arrays.asList("Anggur", "alpukat", "Apel", "Pisang", "Coklat", "Melon"));
 

@@ -1,4 +1,4 @@
-public class Exercise2 {
+public class CastingType {
     public static void main(String[] args) {
         /*
          * Write a program that convert a String to Integer vice versa
