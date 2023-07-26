@@ -6,7 +6,13 @@ public class FindDuplicateList {
     public static void main(String[] args) {
 
         List<String> listStudent = List.of(
-                "Andhika", "Putri", "Ica", "Goku", "Andhika", "Khabib", "Michu");
+                "Andhika",
+                "Putri",
+                "Ica",
+                "Goku",
+                "Andhika",
+                "Khabib",
+                "Michu");
 
         Set<String> unique = new HashSet<>();
 
